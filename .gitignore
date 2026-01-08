@@ -1,0 +1,10 @@
+.env
+uploads/
+meroenv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+Thumbs.db
